@@ -7,7 +7,7 @@ Student
 I'am a 3rd year student looking for a new experience in the technology field
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [jaruporn2546@gmail.com, silarat\_j@silpakorn.edu]
+* ✉️  You can contact me at jaruporn2546@gmail.com, silarat\_j@silpakorn.edu
 
 ### Skills
 
